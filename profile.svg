@@ -12,21 +12,21 @@ text, tspan {white-space: pre;}
 
 <text x="15" y="30" fill="#c9d1d9">
 <tspan x="15" y="30">root@boblouis:/# nano boblouis.txt</tspan>
-<tspan x="15" y="30"></tspan>
-<tspan x="15" y="30">Boblouis</tspan>
-<tspan x="15" y="50">——————</tspan>
-<tspan x="15" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Linux</tspan>
-<tspan x="15" y="90" class="keyColor">Uptime</tspan>: <tspan class="delColor">Critical</tspan>
-<tspan x="15" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Fetching...</tspan>
-<tspan x="15" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science, Documentation, and Security</tspan>
-<tspan x="15" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
-<tspan x="15" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Kotlin, JavaScript, Python</tspan>
-<tspan x="15" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON</tspan>
-<tspan x="15" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English</tspan>
-<tspan x="15" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft, Frontend Elements</tspan>
-<tspan x="15" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Programming, Musician</tspan>
-<tspan x="15" y="330" class="keyColor">Contact</tspan>:
-<tspan x="15" y="350">——————</tspan>
-<tspan x="15" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">@boblouis</tspan>
+<tspan x="15" y="50"></tspan>
+<tspan x="15" y="70">Boblouis</tspan>
+<tspan x="15" y="90">——————</tspan>
+<tspan x="15" y="110" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Linux</tspan>
+<tspan x="15" y="130" class="keyColor">Uptime</tspan>: <tspan class="delColor">Critical</tspan>
+<tspan x="15" y="150" class="keyColor">Host</tspan>: <tspan class="valueColor">Fetching...</tspan>
+<tspan x="15" y="190" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science, Documentation, and Security</tspan>
+<tspan x="15" y="210" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
+<tspan x="15" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Kotlin, JavaScript, Python</tspan>
+<tspan x="15" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON</tspan>
+<tspan x="15" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English</tspan>
+<tspan x="15" y="330" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft, Frontend Elements</tspan>
+<tspan x="15" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Programming, Musician</tspan>
+<tspan x="15" y="390" class="keyColor">Contact</tspan>:
+<tspan x="15" y="410">——————</tspan>
+<tspan x="15" y="430" class="keyColor">Discord</tspan>: <tspan class="valueColor">@boblouis</tspan>
 </text>
 </svg>
