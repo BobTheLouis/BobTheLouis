@@ -27,3 +27,5 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="350">——————</tspan>
 <tspan x="15" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">@boblouis</tspan>
 </text>
+
+</svg>
