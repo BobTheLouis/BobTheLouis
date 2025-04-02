@@ -21,7 +21,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="190" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Development, Sys Admin, and Security</tspan>
 <tspan x="15" y="210" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
 <tspan x="15" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Kotlin, JavaScript, Python</tspan>
-<tspan x="15" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON</tspan>
+<tspan x="15" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Web</tspan>: <tspan class="valueColor">HTML, CSS, JSON</tspan>
 <tspan x="15" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English</tspan>
 <tspan x="15" y="330" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft, Frontend Elements</tspan>
 <tspan x="15" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Programming, Musician</tspan>
